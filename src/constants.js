@@ -8,8 +8,8 @@ CONSTANTS.ERROR_MESSAGE.MASTERDETAIL_GET = 'Request to get master detail text fa
 
 CONSTANTS.ENDPOINT = {}
 
-CONSTANTS.ENDPOINT.GRID = '/api/grid'
+CONSTANTS.ENDPOINT.GRID = 'https://apandey00-orange-funicular-6wqq9j74r7c5v7j-3000.preview.app.github.dev/grid'
 
-CONSTANTS.ENDPOINT.MASTERDETAIL = '/api/masterdetail'
+CONSTANTS.ENDPOINT.MASTERDETAIL = 'https://apandey00-orange-funicular-6wqq9j74r7c5v7j-3000.preview.app.github.dev/masterdetail'
 
 export default CONSTANTS
